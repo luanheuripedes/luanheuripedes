@@ -1,11 +1,12 @@
 
 
-### Olá! Eu sou Luan Heuripedes
+### Hello! I'm Luan Heuripedes
 
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+Study Systems Analysis and Development.
+
+- 🖥️ Frontend: Angular
+
+- 🧮 Backend: .NET Core
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanheuripedes&theme=tokyonight&include_all_commits=true&count_private=true"/>
