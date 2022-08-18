@@ -4,9 +4,8 @@
 
 Study Systems Analysis and Development.
 
-- 🖥️ Frontend: Angular
 
-- 🧮 Backend: .NET Core
+- 🧮 Backend: ASP NET CORE | .NET
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanheuripedes&theme=tokyonight&include_all_commits=true&count_private=true"/>
